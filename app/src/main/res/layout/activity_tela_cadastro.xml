@@ -103,11 +103,10 @@
     </RadioGroup>
 
     <CheckBox
-        android:paddingLeft="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Tenho mais de 18 anos"
-        android:layout_marginLeft="11dp"
+        android:layout_marginLeft="10dp"
         android:layout_marginTop="10dp"
         android:textColor="#ffffff"
         android:buttonTint="#ffffff"/>
