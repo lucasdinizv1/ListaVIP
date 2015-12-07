@@ -65,7 +65,7 @@
         android:text="Login"/>
 
     <TextView
-        android:id="@+id/btCadastrar"
+        android:id="@+id/tvCadastrar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Cadastrar"

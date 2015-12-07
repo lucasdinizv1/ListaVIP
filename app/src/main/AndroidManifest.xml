@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".TelaCadastro"
+            android:label="@string/title_activity_tela_cadastro" >
+        </activity>
     </application>
 
 </manifest>
